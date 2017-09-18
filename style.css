@@ -1,0 +1,60 @@
+html, body {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  color: #465664;
+}
+
+.headline {
+ height: 400px;
+ background-color: #3333CC;
+ color: #FFFFFF;
+}
+
+h1, h2 {
+  font-size: 60px;
+  font-weight: 200;
+}
+
+ p {
+   font-size: 32px;
+ }
+
+.intro {
+  padding-top: 100px;
+}
+
+.body {
+  height: 600px;
+  background-color: #FFFFFF;
+}
+
+
+.body-two {
+  height: 400px;
+  background-color: #FFFFFF;
+}
+
+a {
+  font-size: 32px;
+}
+.headshot {
+  margin-top: 50px;
+  max-height: 300px;
+  max-width: 350px;
+  border-radius: 250px;
+}
+
+.connect {
+  max-height: 70px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 50px;
+}
+
+.about-me {
+  margin-top: 50px;
+}
+
+.contact {
+  margin-top: 50px;
+}
